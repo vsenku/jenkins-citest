@@ -15,7 +15,7 @@ public class JentestCitestApplication {
 	@PostConstruct
 	public void init(){
 		logger.info("Application Initiated......");
-		logger.info("Application started...")
+		logger.info("Application started...");
 	}
 	
 	
